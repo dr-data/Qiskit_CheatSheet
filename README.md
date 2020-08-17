@@ -9,4 +9,4 @@ You simple to press the following button to launch and run in
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dr-data/Qiskit_CheatSheet/master)
 
 2. Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nDKwyDVSyOQug45iW0PQstN41p9VZj37?usp=sharing]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nDKwyDVSyOQug45iW0PQstN41p9VZj37?usp=sharing)
