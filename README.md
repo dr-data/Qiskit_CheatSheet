@@ -5,7 +5,6 @@ This cheatsheet contains basic elements and code to help you to understand the Q
 # Start:
 You simple to press the following button to launch and run in 
 1. binder
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dr-data/Qiskit_CheatSheet/master)
 
 2. Colab
